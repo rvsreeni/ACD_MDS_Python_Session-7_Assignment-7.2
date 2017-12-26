@@ -1,7 +1,7 @@
 Binomial distribution
 n = 50 (total trials)
 x = 5 (success trials)
-p = 1/5 = 0.2
+p (probability of success in one trial) = 1/5 = 0.2
 
 Probability of 5 successs in 50 trials ->
 P(5) =  50! / (45! * 5!) * (1/5 ^ 5) * (4/5 ^ 45) 
